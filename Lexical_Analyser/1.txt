@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int 1num;
+    int num = 0xABCDG;
+    int num = 0o08;
+    int num=0b01102;
+    float f=12.43a;
+   
+    int x;
+    char ch='K';
+    printf("Hello world\n");
+    return 0;
+}

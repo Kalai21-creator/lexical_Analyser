@@ -1,4 +1,4 @@
-# Lexical Analyzer for C Programs
+# Lexical Analyzer
 
 ## Overview
 This project involves the development of a Lexical Analyzer for C programs as part of compiler design. The Lexical Analyzer is responsible for recognizing tokens such as keywords, operators, identifiers, literals, and arrays from the input source code. The goal is to tokenize the given input program, laying a strong foundation for understanding compiler architecture.
